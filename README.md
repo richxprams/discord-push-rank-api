@@ -12,7 +12,7 @@ This package is a powerful wrapper for Discord Push Rank API, designed for easy 
 ## Installation
 
 ```bash
-npm install discord-simple-api
+npm install discord-push-rank-api
 ```
 
 ## Usage
