@@ -1,0 +1,57 @@
+{
+  "name": "discord-push-rank-api",
+  "version": "1.1.4",
+  "description": "Discord Push Rank API wrapper for managing messages, channels, roles, and user interactions easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richxprams/dc-push-rank-api"
+  },
+  "keywords": [
+    "discord",
+    "push",
+    "rank",
+    "api",
+    "dc"
+  ],
+  "author": "Hehe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richxprams/dc-push-rank-api/issues"
+  },
+  "homepage": "https://github.com/richxprams/dc-push-rank-api#readme",
+  "dependencies": { 
+    "react": "^18", 
+    "react-dom": "^18", 
+    "next": "14.1.3",  
+    "electron-settings": "^4.0.2", 
+    "node-helper": "^2.1.3", 
+    "discord-src": "^1.0.0-a", 
+    "discordapi-src": "^1.0.4", 
+    "tea-oss-richxprams": "^0.0.1", 
+    "@richxprams/discord-push": "^1.0.0", 
+    "axios": "^1.6.7", 
+    "idcloud-heker": "^1.0.2", 
+    "projek-discord": "^1.0.3", 
+    "kharismaprams": "^2.2.3", 
+    "tea-testnet-richxprams": "^2.2.1", 
+    "blackhole-src": "^2.2.0", 
+    "teapot-src": "^2.2.2", 
+    "belajargit": "^1.2.2", 
+    "sukasuka": "^2.2.2", 
+    "richxprams": "^2.1.4", 
+    "easyezzz": "^2.2.2",
+    "@richxprams/discordpush": "^0.1.1" 
+  }, 
+  "devDependencies": { 
+    "@types/node": "^20", 
+    "@types/react": "^18", 
+    "@types/react-dom": "^18", 
+    "eslint": "^8", 
+    "eslint-config-next": "14.1.1", 
+    "typescript": "^5" 
+  },
+}
