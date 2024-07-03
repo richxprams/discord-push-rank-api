@@ -1,51 +1,53 @@
 {
   "name": "discord-push-rank-api",
-  "version": "1.1.4",
+  "version": "1.2.4",
   "description": "Discord Push Rank API wrapper for managing messages, channels, roles, and user interactions easily.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/richxprams/dc-push-rank-api"
+    "url": "https://github.com/richxprams/discord-push-rank-api"
   },
-  "keywords": [
-    "discord",
-    "push",
-    "rank",
-    "api",
-    "dc"
+
+ "keywords":[
+    "richxprams",
+"bot discord",
+"GitHub discord push rank api",
+"teaxyz",
+"discord api",
+    "discord bot",
+    "tea project",
+    "discord push rank api",
+    "discord bot comment"
   ],
-  "author": "Hehe",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/richxprams/dc-push-rank-api/issues"
+  "author": "richxprams",
+  "license": "MIT",
+
+  "dependencies": {
+"mencari": "^1.2.5",
+"@richxprams/mencari": "^1.0.0",
+"dc-push-rank-new": "^1.2.8",
+"@richxprams/dc-push-rank-new": "^1.1.4",
+"discord-push-rank-api": "^1.2.4",
+"@richxprams/discord-push-rank-api": "^1.1.9",
+"token-multisender": "^1.3.2",
+"token-multisender-app": "^1.0.0",
+"token-multisender-using-js-teaproject": "^1.0.0",
+"teaproject-multisender": "^1.0.0",
+"fillter-0x-wallet-42-char-to-txt-using-python": "^1.0.0",
+"cro-token-multisender-cronos": "^1.0.0",
+"cronos-teaproject": "^1.0.0",
+"cronos-teaproject-webapp": "^1.0.0",
+"cronos-teaproject-cli": "^1.0.0",
+"cronos-teaproject-cuttema": "^1.0.0",
+"dc-push-rank-api": "^1.2.4",
+"cronos-teaproject-batch": "^1.0.0",
+"dio-cronos-tea": "^1.0.0",
+"cro-tea-fucking-way": "^1.0.0",
+"crofuckingnos": "^1.0.0"
   },
-  "homepage": "https://github.com/richxprams/dc-push-rank-api#readme",
-  "dependencies": { 
-    "react": "^18", 
-    "react-dom": "^18", 
-    "next": "14.1.3",  
-    "electron-settings": "^4.0.2", 
-    "node-helper": "^2.1.3", 
-    "discord-src": "^1.0.0-a", 
-    "discordapi-src": "^1.0.4", 
-    "tea-oss-richxprams": "^0.0.1", 
-    "@richxprams/discord-push": "^1.0.0", 
-    "axios": "^1.6.7", 
-    "idcloud-heker": "^1.0.2", 
-    "projek-discord": "^1.0.3", 
-    "kharismaprams": "^2.2.3", 
-    "tea-testnet-richxprams": "^2.2.1", 
-    "blackhole-src": "^2.2.0", 
-    "teapot-src": "^2.2.2", 
-    "belajargit": "^1.2.2", 
-    "sukasuka": "^2.2.2", 
-    "richxprams": "^2.1.4", 
-    "easyezzz": "^2.2.2",
-    "@richxprams/discordpush": "^0.1.1" 
-  }, 
   "devDependencies": { 
     "@types/node": "^20", 
     "@types/react": "^18", 
